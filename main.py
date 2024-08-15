@@ -1,4 +1,4 @@
-import samples
+import colab.dataDemo as dataDemo
 
 def main():
     print("main function")
@@ -8,6 +8,6 @@ if __name__ == '__main__':
 
     print(a)
 
-    b = samples.samples()
+    b = dataDemo.samples()
 
     print(b)
